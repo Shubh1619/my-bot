@@ -8,7 +8,7 @@ import time
 import tkinter.font as tkfont
 
 # Configure Gemini API key
-genai.configure(api_key="AIzaSyCQ2aKUxOM3SnXsGZTY0VQ4uhqWZtAf0vQ")
+genai.configure(api_key="API KEY")
 
 # Generate content using Gemini
 def generate_content(prompt):
